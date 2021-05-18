@@ -1,6 +1,6 @@
 # Covid App
 
-APP Link: https://covid-tracker-by-naman.herokuapp.com/
+APP Link: https://covid-tracker-by-naman.netlify.app
 
 
 This app helps to track the COVID-19 cases aroud the world. It is made using ReactJS.
